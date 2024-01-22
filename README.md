@@ -1,6 +1,6 @@
 # Disable-SslVerification.ps1
 
-Powershell. Disable SSL tcertificate validation for Powershell requests
+Powershell. Disable SSL certificate validation for Powershell requests
 
 Connecting to web interfaces that have an invalid certificate in PowerShell is not allowed - Powershell refuses connection if any validity check fails.
 
